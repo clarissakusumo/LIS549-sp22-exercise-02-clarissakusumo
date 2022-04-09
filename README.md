@@ -1,0 +1,1 @@
+# LIS549-sp22-exercise-02-clarissakusumo
